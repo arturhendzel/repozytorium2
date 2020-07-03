@@ -1,0 +1,7 @@
+
+przychody     @Zestawienie(zestawienie II,14. 2)
+
+
+
+
+koszty        @Zestawienie(zestawienie II,16. 2) + @Zestawienie(R Z/S - km [2], 2. 1)
